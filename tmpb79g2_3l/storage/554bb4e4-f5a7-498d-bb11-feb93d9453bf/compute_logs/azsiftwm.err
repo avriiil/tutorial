@@ -1,0 +1,5 @@
+[32m2024-01-15 14:42:52 +0000[0m - dagster - [34mDEBUG[0m - __ASSET_JOB - 554bb4e4-f5a7-498d-bb11-feb93d9453bf - 55686 - LOGS_CAPTURED - Started capturing logs in process (pid: 55686).
+[32m2024-01-15 14:42:52 +0000[0m - dagster - [34mDEBUG[0m - __ASSET_JOB - 554bb4e4-f5a7-498d-bb11-feb93d9453bf - 55686 - topstory_ids - STEP_START - Started execution of step "topstory_ids".
+[32m2024-01-15 14:42:52 +0000[0m - dagster - [34mDEBUG[0m - __ASSET_JOB - 554bb4e4-f5a7-498d-bb11-feb93d9453bf - 55686 - topstory_ids - STEP_OUTPUT - Yielded output "result" of type "Nothing". (Type check passed).
+[32m2024-01-15 14:42:52 +0000[0m - dagster - [34mDEBUG[0m - __ASSET_JOB - 554bb4e4-f5a7-498d-bb11-feb93d9453bf - 55686 - topstory_ids - ASSET_MATERIALIZATION - Materialized value topstory_ids.
+[32m2024-01-15 14:42:52 +0000[0m - dagster - [34mDEBUG[0m - __ASSET_JOB - 554bb4e4-f5a7-498d-bb11-feb93d9453bf - 55686 - topstory_ids - STEP_SUCCESS - Finished execution of step "topstory_ids" in 552ms.
